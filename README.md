@@ -1,9 +1,6 @@
 # API Testing - SOAP
 
 ## Project Name: Number Conversion Service
-
- ## API Testing - SOAP
-## Project Name: Number Conversion Service
 ## Project URL
 [Number Conversion Service API Documentation](https://www.dataaccess.com/webservicesserver/NumberConversion.wso?op=NumberToWords)
 
