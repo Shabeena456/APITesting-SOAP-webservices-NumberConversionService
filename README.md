@@ -13,13 +13,13 @@ This project involves testing the SOAP API for number to words conversion. The A
 ## Test Cases
 A set of Postman test cases have been created to cover different scenarios for the number to words conversion API. These include positive and negative test cases to ensure robustness and accuracy in conversion results.
 
-Running Tests with Newman
+## Running Tests with Newman
 Newman is a command-line collection runner for Postman. It allows you to run and test a Postman collection directly from the command line.
 
-Prerequisites
+### Prerequisites
 Node.js installed on your system.
 Newman installed globally via npm.
-Installation
-Install Node.js.
+### Installation
+Install [Node.js.](https://nodejs.org/en)
 Install Newman globally using npm:
 npm install -g newman
