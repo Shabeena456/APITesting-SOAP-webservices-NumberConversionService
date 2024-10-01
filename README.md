@@ -14,9 +14,9 @@ A set of Postman test cases have been created to cover different scenarios for t
 Newman is a command-line collection runner for Postman. It allows you to run and test a Postman collection directly from the command line.
 
 ### Prerequisites
-Node.js installed on your system.
-Newman installed globally via npm.
+- Node.js installed on your system.
+- Newman installed globally via npm.
 ### Installation
-Install [Node.js.](https://nodejs.org/en)
-Install Newman globally using npm:
-npm install -g newman
+1. Install [Node.js.](https://nodejs.org/en)
+2. Install Newman globally using npm:
+   npm install -g newman
